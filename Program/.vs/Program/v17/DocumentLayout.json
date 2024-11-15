@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4E7430F-D83E-427E-83CA-39117E4A1C23}|Program.csproj|c:\\users\\administrator\\desktop\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4E7430F-D83E-427E-83CA-39117E4A1C23}|Program.csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4E7430F-D83E-427E-83CA-39117E4A1C23}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332D9B51-CA3F-4BA3-AC1D-93F145EA31EC}|..\\Class1th (Variable)\\Class1th (Variable).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class1th (variable)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class1th (Variable)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class1th (Variable)\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class1th (Variable)\\Program.cs",
+              "RelativeToolTip": "..\\Class1th (Variable)\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:15:46.005Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Program\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Program\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwHsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T05:24:19.438Z",
               "EditorCaption": ""
