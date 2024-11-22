@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class3th (Overflow & UnderFlow)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+653842df32dd597601a617c12c6b037a2ddddb70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7e7ca62f1834aabcd0ae10b3d277de4c8f66fe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class3th (Overflow & UnderFlow)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class3th (Overflow & UnderFlow)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

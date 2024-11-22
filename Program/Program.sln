@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class3th (Overflow & UnderF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class4th (Conditional Statement)", "..\Class4th (Conditional Statement)\Class4th (Conditional Statement).csproj", "{C2F2A3A3-6CFC-449B-91E1-3885C509538A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class5th (Iteration Statement)", "..\Class5th (Iteration Statement)\Class5th (Iteration Statement).csproj", "{8CFA95EB-5234-4A3D-889B-D2EBB9DFE328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class5th (Iteration Statement)", "..\Class5th (Iteration Statement)\Class5th (Iteration Statement).csproj", "{8CFA95EB-5234-4A3D-889B-D2EBB9DFE328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class6th (Function)", "..\Class6th (Function)\Class6th (Function).csproj", "{4322644F-CB3D-4AFC-A4D5-62E204BE270D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8CFA95EB-5234-4A3D-889B-D2EBB9DFE328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CFA95EB-5234-4A3D-889B-D2EBB9DFE328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CFA95EB-5234-4A3D-889B-D2EBB9DFE328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4322644F-CB3D-4AFC-A4D5-62E204BE270D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4322644F-CB3D-4AFC-A4D5-62E204BE270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4322644F-CB3D-4AFC-A4D5-62E204BE270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4322644F-CB3D-4AFC-A4D5-62E204BE270D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
