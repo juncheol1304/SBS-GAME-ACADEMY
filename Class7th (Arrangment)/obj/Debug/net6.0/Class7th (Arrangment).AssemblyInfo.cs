@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Class2th (Bit)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Class7th (Arrangment)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77df0fff19f8c731d5b11a4ed6dfd9eab5ddf809")]
-[assembly: System.Reflection.AssemblyProductAttribute("Class2th (Bit)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Class2th (Bit)")]
+[assembly: System.Reflection.AssemblyProductAttribute("Class7th (Arrangment)")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Class7th (Arrangment)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
