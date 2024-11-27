@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{F4E7430F-D83E-427E-83CA-39117E4A1C23}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9AA1E92-1B1C-4A69-B5E5-2ADAEC94610E}|..\\Class10th (Polymophism)\\Class10th (Polymophism).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class10th (polymophism)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84C7E3F-91EC-4E41-B274-C5B74D4B8059}|..\\Class9th (Inhertance)\\Class9th (Inhertance).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class9th (inhertance)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{949F664D-ACFE-4A68-B22F-89F8D944437B}|..\\Class8th (Class)\\Class8th (Class).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class8th (class)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -20,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,18 +84,44 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class10th (Polymophism)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class10th (Polymophism)\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class10th (Polymophism)\\Program.cs",
+              "RelativeToolTip": "..\\Class10th (Polymophism)\\Program.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:38:51.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class9th (Inhertance)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class9th (Inhertance)\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class9th (Inhertance)\\Program.cs",
+              "RelativeToolTip": "..\\Class9th (Inhertance)\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwv1UAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:21:28.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class8th (Class)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class8th (Class)\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class8th (Class)\\Program.cs",
               "RelativeToolTip": "..\\Class8th (Class)\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwLAAAAAMAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T04:43:52.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class7th (Arrangment)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class7th (Arrangment)\\Program.cs",
@@ -108,7 +140,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAgwCIAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T05:24:19.438Z",
               "EditorCaption": ""
