@@ -7,10 +7,25 @@
       "RelativeMoniker": "D:0:0:{F4E7430F-D83E-427E-83CA-39117E4A1C23}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}|..\\Class11th (Abstract)\\Class11th (Abstract).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class11th (abstract)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}|..\\Class11th (Abstract)\\Class11th (Abstract).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class11th (abstract)\\charater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}|..\\Class11th (Abstract)\\Class11th (Abstract).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class11th (abstract)\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}|..\\Class11th (Abstract)\\Class11th (Abstract).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class11th (abstract)\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}|..\\Class11th (Abstract)\\Class11th (Abstract).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class11th (abstract)\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9AA1E92-1B1C-4A69-B5E5-2ADAEC94610E}|..\\Class10th (Polymophism)\\Class10th (Polymophism).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class10th (polymophism)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C84C7E3F-91EC-4E41-B274-C5B74D4B8059}|..\\Class9th (Inhertance)\\Class9th (Inhertance).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class9th (inhertance)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C84C7E3F-91EC-4E41-B274-C5B74D4B8059}|..\\Class9th (Inhertance)\\Class9th (InherItance).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class9th (inhertance)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{949F664D-ACFE-4A68-B22F-89F8D944437B}|..\\Class8th (Class)\\Class8th (Class).csproj|c:\\users\\administrator\\desktop\\sbs-game-academy\\class8th (class)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -26,8 +41,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 22,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Wizard.cs",
+              "RelativeDocumentMoniker": "..\\Class11th (Abstract)\\Wizard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Wizard.cs",
+              "RelativeToolTip": "..\\Class11th (Abstract)\\Wizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:40:58.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Warrior.cs",
+              "RelativeDocumentMoniker": "..\\Class11th (Abstract)\\Warrior.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Warrior.cs",
+              "RelativeToolTip": "..\\Class11th (Abstract)\\Warrior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:40:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rogue.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Rogue.cs",
+              "RelativeDocumentMoniker": "..\\Class11th (Abstract)\\Rogue.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Rogue.cs",
+              "RelativeToolTip": "..\\Class11th (Abstract)\\Rogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:40:53.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Charater.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Charater.cs",
+              "RelativeDocumentMoniker": "..\\Class11th (Abstract)\\Charater.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Charater.cs",
+              "RelativeToolTip": "..\\Class11th (Abstract)\\Charater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:40:38.798Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
@@ -84,31 +151,44 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Class11th (Abstract)\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class11th (Abstract)\\Program.cs",
+              "RelativeToolTip": "..\\Class11th (Abstract)\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:39:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class10th (Polymophism)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class10th (Polymophism)\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class10th (Polymophism)\\Program.cs",
               "RelativeToolTip": "..\\Class10th (Polymophism)\\Program.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAIwDEAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T06:38:51.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class9th (Inhertance)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class9th (Inhertance)\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class9th (Inhertance)\\Program.cs",
               "RelativeToolTip": "..\\Class9th (Inhertance)\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAADwv1UAAAAMAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwFUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T04:21:28.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class8th (Class)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class8th (Class)\\Program.cs",
@@ -116,12 +196,11 @@
               "RelativeToolTip": "..\\Class8th (Class)\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAwAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T04:43:52.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T04:43:52.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Class7th (Arrangment)\\Program.cs",
               "RelativeDocumentMoniker": "..\\Class7th (Arrangment)\\Program.cs",
@@ -129,8 +208,7 @@
               "RelativeToolTip": "..\\Class7th (Arrangment)\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAQwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T04:07:16.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T04:07:16.677Z"
             },
             {
               "$type": "Document",
@@ -140,7 +218,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-GAME-ACADEMY\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T05:24:19.438Z",
               "EditorCaption": ""

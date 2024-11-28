@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class7th (Arrangment)", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class8th (Class)", "..\Class8th (Class)\Class8th (Class).csproj", "{949F664D-ACFE-4A68-B22F-89F8D944437B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class9th (InherItance)", "..\Class9th (Inhertance)\Class9th (InherItance).csproj", "{C84C7E3F-91EC-4E41-B274-C5B74D4B8059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class9th (InherItance)", "..\Class9th (Inhertance)\Class9th (InherItance).csproj", "{C84C7E3F-91EC-4E41-B274-C5B74D4B8059}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class10th (Polymophism)", "..\Class10th (Polymophism)\Class10th (Polymophism).csproj", "{A9AA1E92-1B1C-4A69-B5E5-2ADAEC94610E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class10th (Polymophism)", "..\Class10th (Polymophism)\Class10th (Polymophism).csproj", "{A9AA1E92-1B1C-4A69-B5E5-2ADAEC94610E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class11th (Abstract)", "..\Class11th (Abstract)\Class11th (Abstract).csproj", "{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A9AA1E92-1B1C-4A69-B5E5-2ADAEC94610E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9AA1E92-1B1C-4A69-B5E5-2ADAEC94610E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9AA1E92-1B1C-4A69-B5E5-2ADAEC94610E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDD9C9C-E4B1-4D0E-907A-0E59A73CA2B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
